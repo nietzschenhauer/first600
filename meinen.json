@@ -1,0 +1,23 @@
+[
+    { "deutsch": "ich glaube", "englisch": "I believe", "bedeutung": "Expression of faith or trust" },
+    { "deutsch": "Glaube", "englisch": "faith", "bedeutung": "Trust, loyalty, or belief" },
+    { "deutsch": "Religion", "englisch": "religion", "bedeutung": "Religious belief or worship" },
+    { "deutsch": "ich denke", "englisch": "I think", "bedeutung": "Expression of opinion or assumption" },
+    { "deutsch": "bedenken", "englisch": "consider", "bedeutung": "Belief or opinion after consideration" },
+    { "deutsch": "Meinung", "englisch": "opinion", "bedeutung": "Subjective judgment or belief" },
+    { "deutsch": "ich weiß", "englisch": "I know", "bedeutung": "Certain knowledge or understanding" },
+    { "deutsch": "ich erkenne", "englisch": "I recognize", "bedeutung": "Gaining awareness or knowledge" },
+    { "deutsch": "ich verstehe", "englisch": "I understand", "bedeutung": "To comprehend or grasp meaning" },
+    { "deutsch": "ich schätze", "englisch": "I estimate", "bedeutung": "Belief or opinion with uncertainty" },
+    { "deutsch": "ich überzeuge", "englisch": "I convince", "bedeutung": "Convincing based on belief or argument" },
+	{ "deutsch": "ich überrede", "englisch": "I persuade", "bedeutung": "Convincing with connotation of talking into" },
+    { "deutsch": "ich nehme an", "englisch": "I suppose", "bedeutung": "A guess or assumption" },
+    { "deutsch": "ich lehre", "englisch": "I teach", "bedeutung": "To impart knowledge or instruct" },
+	{ "deutsch": "ich lerne", "englisch": "I learn", "bedeutung": "To aquire knowledge" },
+    { "deutsch": "Wissen", "englisch": "knowledge", "bedeutung": "Theoretical or systematic understanding" },
+    { "deutsch": "Vernunft", "englisch": "reason", "bedeutung": "Logical thinking and understanding" },
+    { "deutsch": "leichtgläubig", "englisch": "credulous", "bedeutung": "Believing too readily or easily" },
+    { "deutsch": "ich zweifle", "englisch": "I doubt", "bedeutung": "Uncertainty or hesitation in belief" },
+    { "deutsch": "ich hoffe", "englisch": "I hope", "bedeutung": "Belief in a positive future outcome" },
+    { "deutsch": "Wahrheit", "englisch": "truth", "bedeutung": "What is accepted as true or certain" }
+]

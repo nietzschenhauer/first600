@@ -1,0 +1,22 @@
+[
+    { "lateinisch": "credo", "deutsch": "ich glaube", "bedeutung": "Ausdruck des Glaubens oder Vertrauens" },
+    { "lateinisch": "fides", "deutsch": "Glaube", "bedeutung": "Vertrauen, Treue, Glaube" },
+    { "lateinisch": "religio", "deutsch": "Religion", "bedeutung": "religiöser Glaube, Verehrung" },
+    { "lateinisch": "puto", "deutsch": "ich meine", "bedeutung": "Meinung oder Annahme" },
+    { "lateinisch": "arbitror", "deutsch": "ich meine", "bedeutung": "nach Abwägung glauben oder meinen" },
+    { "lateinisch": "opinio", "deutsch": "Meinung", "bedeutung": "subjektive Einschätzung oder Glaube" },
+    { "lateinisch": "scio", "deutsch": "ich weiß", "bedeutung": "sicheres Wissen oder Erkenntnis" },
+    { "lateinisch": "cognosco", "deutsch": "ich erkenne", "bedeutung": "erkennen oder Wissen erlangen" },
+    { "lateinisch": "intellego", "deutsch": "ich verstehe", "bedeutung": "verstehen oder begreifen" },
+    { "lateinisch": "existimo", "deutsch": "ich schätze", "bedeutung": "glauben oder meinen mit Unsicherheit" },
+    { "lateinisch": "persuadeo", "deutsch": "ich überzeuge", "bedeutung": "Überzeugung auf Basis von Glauben oder Argumenten" },
+    { "lateinisch": "opinor", "deutsch": "ich meine", "bedeutung": "Einschätzung oder Vermutung" },
+    { "lateinisch": "doceo", "deutsch": "ich lehre", "bedeutung": "Weitergabe von Wissen" },
+    { "lateinisch": "disciplina", "deutsch": "Wissen", "bedeutung": "erlernte oder disziplinierte Erkenntnis" },
+    { "lateinisch": "scientia", "deutsch": "Wissen", "bedeutung": "theoretisches oder systematisches Wissen" },
+    { "lateinisch": "ratio", "deutsch": "Vernunft", "bedeutung": "logisches Denken und Wissen" },
+    { "lateinisch": "credulus", "deutsch": "leichtgläubig", "bedeutung": "zu schnell glauben oder vertrauen" },
+    { "lateinisch": "dubito", "deutsch": "ich zweifle", "bedeutung": "Zweifel oder Unsicherheit im Glauben" },
+    { "lateinisch": "spero", "deutsch": "ich hoffe", "bedeutung": "Glauben an eine positive Zukunft" },
+    { "lateinisch": "veritas", "deutsch": "Wahrheit", "bedeutung": "Was als wahr oder gewiss anerkannt wird." }
+]

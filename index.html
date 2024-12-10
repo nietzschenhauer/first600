@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vokabelabfrage</title>
+    
+    <link rel="stylesheet" href="style.css">
+    
+    
+</head>
+<body>
+    <div id="content">
+        <h1 id="frage">Drücke "Start", um die Abfrage zu beginnen</h1>
+        <input type="text" id="antwort" placeholder="Deine Antwort hier..." style="display: none;">
+        <button id="startButton">Start</button>
+        
+        <div id="colorButtons"></div>
+            <button id="weiterButton" style="display: none;">Weiter</button>
+            <button id="greenButton" style="display: none;">Weiß ich</button>
+            <button id="redButton" style="display: none;">Ich gebe auf</button>
+        </div>
+        <div id="buttonContainer">
+            <button onclick="ladeJson('meinen.json')">meinen</button>
+            <button onclick="ladeJson('credere.json')">credere</button>
+            <button onclick="ladeJson('vokabeln3.json')">Vokabeln 3</button>
+        </div>
+    
+    
+    </div>
+
+    <div id="textBox">
+        <h2>Verlauf</h2>
+        <ul id="history"></ul>
+    </div>
+
+    <script src="vocab.js"></script>
+</body>
+</html>

@@ -1,0 +1,106 @@
+    body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            min-height: 100vh;
+        }
+    
+        #content {
+            flex: 1;
+            padding: 20px;
+            text-align: center;
+        }
+    
+        #textBox {
+            border-left: 2px solid #ccc;
+            background-color: #f9f9f9;
+            padding: 10px;
+            box-shadow: -2px 0 5px rgba(0, 0, 0, 0.1);
+            max-height: 40vh;
+            overflow-y: auto;
+        }
+        #buttonContainer {
+            position: absolute;
+            bottom: 10px;
+            left: 50%;
+            transform: translateX(-50%);
+            display: flex;
+            gap: 10px;
+            justify-content: center;
+        }
+
+        #buttonContainer button {
+            font-size: 0.9em;
+            padding: 10px 15px;
+            cursor: pointer;
+            border: 1px solid #aaa;
+            border-radius: 5px;
+            background-color: #eee;
+        }
+        
+        #buttonContainer button:hover {
+            background-color: #ddd;
+        }
+        #colorButtons {
+            display: flex;
+            gap: 10px; /* Abstand zwischen den Buttons */
+        }
+
+        #greenButton {
+            background-color: green;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            font-size: 1em;
+            cursor: pointer;
+            margin-left: 10px;
+}
+
+        #redButton {
+            background-color: red;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            font-size: 1em;
+            cursor: pointer;
+            margin-left: 10px;
+}
+    
+        /* Desktop-Ansicht */
+        @media (min-width: 768px) {
+            body {
+                flex-direction: row;
+            }
+    
+            #content {
+                flex: 3;
+            }
+    
+            #textBox {
+                flex: 1;
+                position: sticky;
+                top: 0;
+                height: 100vh;
+                max-height: none;
+            }
+        }
+    
+        h1 {
+            font-size: 1.5em;
+            margin-bottom: 20px;
+        }
+    
+        input {
+            font-size: 1em;
+            padding: 10px;
+            margin-bottom: 20px;
+            width: 80%;
+        }
+    
+        button {
+            font-size: 1em;
+            padding: 10px 20px;
+            margin: 10px;
+        }
